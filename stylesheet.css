@@ -1,0 +1,31 @@
+/*************************Tag selectors*****************/
+body{
+	margin:0;
+}
+hr{
+	border-radius: 80px;
+	width:50px;
+    border-top: 1px dashed;
+	
+}
+h1, h2,  h3{
+	font-style: oblique;
+}
+/***********************Class selectors****************/
+.top-container {
+	background-color:#ffb4ac;
+    padding: 10px;
+}
+.middle-container {
+	background-color:#ffb4ac;
+	padding:10px;
+	width:32%;
+	border-style: dotted;
+	margin: 5px;
+}
+.image{
+	display:block;
+	margin: auto;
+	width: 630px;
+    height: 320px;
+}
